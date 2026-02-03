@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="A"/>
+    <variable name="B"/>
+    <variable name="Cin"/>
+  </variables>
+  <results>
+    <result>
+      <name>Cout</name>
+      <values class="BoolTable">00010111</values>
+    </result>
+    <result>
+      <name>SUM</name>
+      <values class="BoolTable">01101001</values>
+    </result>
+  </results>
+</truthTable>
